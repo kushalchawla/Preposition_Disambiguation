@@ -1,0 +1,80 @@
+in epoch - 0
+accuracy on dev set - [0.14]
+accuracy on test set - [0.13646533]
+
+in epoch - 5
+accuracy on dev set - [0.41333333]
+accuracy on test set - [0.39821029]
+
+in epoch - 10
+accuracy on dev set - [0.44222221]
+accuracy on test set - [0.44295302]
+
+in epoch - 15
+accuracy on dev set - [0.46444446]
+accuracy on test set - [0.48993289]
+
+in epoch - 20
+accuracy on dev set - [0.47555557]
+accuracy on test set - [0.49888143]
+
+in epoch - 25
+accuracy on dev set - [0.49555555]
+accuracy on test set - [0.48769575]
+
+in epoch - 30
+accuracy on dev set - [0.4911111]
+accuracy on test set - [0.49217004]
+
+in epoch - 35
+accuracy on dev set - [0.48888889]
+accuracy on test set - [0.49664429]
+
+in epoch - 40
+accuracy on dev set - [0.49555555]
+accuracy on test set - [0.50782996]
+
+in epoch - 45
+accuracy on dev set - [0.4911111]
+accuracy on test set - [0.50335568]
+
+in epoch - 50
+accuracy on dev set - [0.48222223]
+accuracy on test set - [0.50335568]
+
+in epoch - 55
+accuracy on dev set - [0.48666668]
+accuracy on test set - [0.50111854]
+
+in epoch - 60
+accuracy on dev set - [0.47111112]
+accuracy on test set - [0.49888143]
+
+in epoch - 65
+accuracy on dev set - [0.48666668]
+accuracy on test set - [0.51230425]
+
+in epoch - 70
+accuracy on dev set - [0.48888889]
+accuracy on test set - [0.51006711]
+
+in epoch - 75
+accuracy on dev set - [0.49555555]
+accuracy on test set - [0.49888143]
+
+in epoch - 80
+accuracy on dev set - [0.48222223]
+accuracy on test set - [0.51454139]
+
+in epoch - 85
+accuracy on dev set - [0.48222223]
+accuracy on test set - [0.50559282]
+
+in epoch - 90
+accuracy on dev set - [0.49333334]
+accuracy on test set - [0.49664429]
+
+in epoch - 95
+accuracy on dev set - [0.48666668]
+accuracy on test set - [0.51006711]
+

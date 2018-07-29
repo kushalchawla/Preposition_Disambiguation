@@ -1,0 +1,42 @@
+input taken in. size is -  4250
+unique_ids are -  4250
+unique senses are -  63
+vocab size is -  5166 found vectors for -  4961
+Till ids replacement done
+wv created
+different datasets prepared. sizes are -  3353 450 447
+Model is -  SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape=None, degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+accuracy on dev set is -  0.542222222222
+accuracy on test set is -  0.536912751678
+
+
+Model is -  KNeighborsClassifier(algorithm='auto', leaf_size=30, metric='minkowski',
+           metric_params=None, n_jobs=1, n_neighbors=5, p=2,
+           weights='uniform')
+accuracy on dev set is -  0.424444444444
+accuracy on test set is -  0.425055928412
+
+
+Model is -  RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+            max_depth=None, max_features='auto', max_leaf_nodes=None,
+            min_impurity_split=1e-07, min_samples_leaf=1,
+            min_samples_split=2, min_weight_fraction_leaf=0.0,
+            n_estimators=100, n_jobs=1, oob_score=False, random_state=None,
+            verbose=0, warm_start=False)
+accuracy on dev set is -  0.5
+accuracy on test set is -  0.521252796421
+
+
+Model is -  MLPClassifier(activation='relu', alpha=0.0001, batch_size='auto', beta_1=0.9,
+       beta_2=0.999, early_stopping=False, epsilon=1e-08,
+       hidden_layer_sizes=(100,), learning_rate='constant',
+       learning_rate_init=0.001, max_iter=200, momentum=0.9,
+       nesterovs_momentum=True, power_t=0.5, random_state=None,
+       shuffle=True, solver='adam', tol=0.0001, validation_fraction=0.1,
+       verbose=False, warm_start=False)
+accuracy on dev set is -  0.535555555556
+accuracy on test set is -  0.492170022371
+

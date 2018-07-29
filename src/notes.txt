@@ -1,0 +1,29 @@
+FOR MID TERM EVALUATION - 
+
+Problem - Preposition disambiguation. 
+Dataset- Web reviews 
+ 
+Prepare models. 
+show results on initial models and keep transfer learning for later.
+
+also keep evaluation on sem eval corpus for later. 
+
+MODELS - 
+
+Pass the context through 2 LSTMs, concatenate it with the vector of preposition and predict the class.
+Above has 2 variants - pre trained vectors or not.
+
+We can show class wise accuracies.
+
+Random assignment using class wise weighted probabilities over all prepositions.
+Random assignment for each preposition using class wise weighted probabilities.
+
+For each preposition, assign the max prob. weight class directly.
+
+Assign the maximum weighted class to all prepositions.
+
+Feed forward network, instead of an LSTM. (again with pre trained and without pre trained.)
+
+Keep transfer learning and other analysis for later.
+
+Ensemble methods keep for later. 

@@ -1,0 +1,8 @@
+input taken in. size is -  4250
+unique_ids are -  4250
+unique senses are -  63
+vocab size is -  5166 found vectors for -  4961
+different datasets prepared. sizes are -  3353 450 447
+model training done.
+accuracy on dev set is -  0.411111111111
+accuracy on test set is -  0.425055928412

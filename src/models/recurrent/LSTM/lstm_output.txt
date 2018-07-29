@@ -1,0 +1,40 @@
+in epoch - 0
+accuracy on dev set - [0.33555555]
+accuracy on test set - [0.33333334]
+
+in epoch - 1
+accuracy on dev set - [0.38666666]
+accuracy on test set - [0.40268457]
+
+in epoch - 2
+accuracy on dev set - [0.44666666]
+accuracy on test set - [0.44966444]
+
+in epoch - 3
+accuracy on dev set - [0.47999999]
+accuracy on test set - [0.4720358]
+
+in epoch - 4
+accuracy on dev set - [0.48666668]
+accuracy on test set - [0.48993289]
+
+in epoch - 5
+accuracy on dev set - [0.4911111]
+accuracy on test set - [0.50782996]
+
+in epoch - 6
+accuracy on dev set - [0.48888889]
+accuracy on test set - [0.49664429]
+
+in epoch - 7
+accuracy on dev set - [0.47777778]
+accuracy on test set - [0.49440715]
+
+in epoch - 8
+accuracy on dev set - [0.46444446]
+accuracy on test set - [0.48993289]
+
+in epoch - 9
+accuracy on dev set - [0.46888888]
+accuracy on test set - [0.48769575]
+
